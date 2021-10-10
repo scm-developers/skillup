@@ -9,6 +9,7 @@
 
 - [Learn Flexbox Througth Examples](https://laracasts.com/series/learn-flexbox-through-examples)
 - [CSS Grids For Everyone](https://laracasts.com/series/css-grids-for-everyone)
+- [Modern CSS For Backend Developers](https://laracasts.com/series/modern-css-for-backend-developers)
 
 
 
